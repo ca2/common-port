@@ -1,6 +1,0 @@
-[submodule "debugbreak"]
-	path = debugbreak
-	url = ../../scottt/debugbreak
-[submodule "nanosvg"]
-	path = nanosvg
-	url = ../../cpp-port/nanosvg
