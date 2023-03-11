@@ -4,3 +4,6 @@
 [submodule "nanosvg"]
 	path = nanosvg
 	url = ../../cpp-port/nanosvg
+[submodule "rapidjson"]
+	path = rapidjson
+	url = ../../Tencent/rapidjson
